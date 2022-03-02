@@ -5,6 +5,7 @@
 ### 사용 프로그램 : R
 
 
+
 ## 02. K-Folds CV를 활용한 최고성능 모형 탐색
 ### 개요 : Heart Failure Prediction Dataset의 이진적 반응변수인 HeartDisease을 예측하는 다양한 통계학습 모델들을 10-folds CV를 통해 구현하고 적합하여, 이에 따른 정확도와 AUC값을 비교한다.
 ### 사용 프로그램 : R
