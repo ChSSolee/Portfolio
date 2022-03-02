@@ -12,7 +12,11 @@ https://docsconv.malangmalang.com/hermes/resource/store/c9/9b/43c3cc24d4d3d458de
 ### 사용 프로그램 : R
 ### 데이터 : Heart Failure Prediction Dataset
 
+https://github.com/ChSSolee/Portfolio/tree/main/02
+
 ## 03. 항공사의 고객 만족도를 높이는 요인분석
 ### 개요 : US Airline Passenger Satisfaction의 이진적 반응변수(항공사 서비스 만족 여부에 대한 오즈)에 설명변수가 어떤 영향을 미치는지를 파악.
 ### 사용 프로그램 : R
 ### 데이터 : US Airline Passenger Satisfaction
+
+https://github.com/ChSSolee/Portfolio/tree/main/03
