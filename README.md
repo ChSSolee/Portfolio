@@ -28,7 +28,6 @@
 > #### 기간/단위 : 2020.11 ~ 2020.12 / 조별 프로젝트
 > #### 사용 프로그램 : R
 > #### 비고 : 교내 빅데이터 경진대회와 연계
-> #### [제출물(리포트)](https://docsconv.malangmalang.com/hermes/resource/store/c9/9b/43c3cc24d4d3d458de5d9a2939c82da72635/hview.html)
 
 #
 
