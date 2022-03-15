@@ -32,7 +32,7 @@
 
 #
 
-### 02. [K-Folds CV를 활용한 최고성능 기계학습 모형 탐색](https://github.com/ChSSolee/002/blob/main/README.md)
+### 02. [K-Folds CV를 활용한 최적의 분류 머신러닝 모형 탐색](https://github.com/ChSSolee/002/blob/main/README.md)
 > #### 개요 : Heart Failure Prediction Dataset의 이진적 반응변수인 HeartDisease을 예측하는 다양한 통계학습 모델들을 10-folds CV를 통해 구현하고 적합하여, 이에 따른 정확도와 AUC값을 비교.
 > #### 기간/단위 : 2021.11 ~ 2021.11 / 조별 프로젝트
 > #### 사용 프로그램 : R
