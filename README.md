@@ -46,5 +46,5 @@
 
 <br/>
 
-### 04. [대한민국 축구 국가 대표팀 ’2022 카타르 월드컵 최종예선’경기의 YouTube 하이라이트 영상 댓글 키워드를 활용한 감성분석](https://github.com/ChSSolee/R-Data/blob/main/Youtube.md)
+### 04. [대한민국 축구 국가 대표팀 ’2022 카타르 월드컵 최종예선’경기의 YouTube 하이라이트 영상 댓글 감성분석](https://github.com/ChSSolee/R-Data/blob/main/Youtube.md)
 > #### 사용 프로그램 : R
