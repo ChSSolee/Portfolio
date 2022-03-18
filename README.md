@@ -46,7 +46,7 @@
 
 <br/>
 
-### 04. 네이버, 유투브 Open API 활용
+### 04. 네이버, 유투브 Open API
 > [대한민국 축구 국가 대표팀 ’2022 카타르 월드컵 최종예선’경기의 YouTube 하이라이트 영상 댓글 분석](https://github.com/ChSSolee/R-Data/blob/main/Youtube.md)
 > 
 > ["황희찬", "황의조" 네이버 뉴스](https://github.com/ChSSolee/R-Data/blob/main/%EB%89%B4%EC%8A%A4%20%ED%82%A4%EC%9B%8C%EB%93%9C%20(Naver%20API).md)
