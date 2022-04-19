@@ -46,6 +46,5 @@
 
 <br/>
 
-### 유투브 Open API
-> [대한민국 축구 국가 대표팀 ’2022 카타르 월드컵 최종예선’경기의 YouTube 하이라이트 영상 댓글분석](https://github.com/ChSSolee/R-Data/blob/main/Youtube.md)
+### [대한민국 축구 국가 대표팀 ’2022 카타르 월드컵 최종예선’경기의 YouTube 하이라이트 영상 댓글분석](https://github.com/ChSSolee/R-Data/blob/main/Youtube.md)
 
