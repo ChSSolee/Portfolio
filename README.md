@@ -50,7 +50,7 @@
 
 <br/>
 
-### [House Price Prediction](https://github.com/ChSSolee/R-study/blob/main/Housing%20Price/notebook3c484024bd%20(1).md)
+### [House Price Prediction (회귀)](https://github.com/ChSSolee/R-study/blob/main/Housing%20Price/notebook3c484024bd%20(1).md)
 
 <br/>
 
