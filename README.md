@@ -1,4 +1,4 @@
-# 이찬솔 Portfolio  
+# 이찬솔  
 #
 
 <img width="200" height="250" src="https://user-images.githubusercontent.com/100699925/156291652-aa1a8a48-ab44-437c-aa76-93e031dba97f.jpg">
@@ -47,6 +47,10 @@
 <br/>
 
 ### [Covid 19 방사선 사진 데이터 분류 - CNN](https://github.com/ChSSolee/R-study/blob/main/cnn-in-r/cnn-in-r.md)
+
+<br/>
+
+### [House Price Prediction](https://github.com/ChSSolee/R-study/blob/main/Housing%20Price/notebook3c484024bd%20(1).md)
 
 <br/>
 
