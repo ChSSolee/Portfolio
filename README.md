@@ -46,7 +46,7 @@
 
 <br/>
 
-### [Covid 19 방사선 사진 데이터 - CNN 모델](https://github.com/ChSSolee/R-study/blob/main/cnn-in-r/cnn-in-r.md)
+### [Covid 19 방사선 사진 데이터 분류 - CNN](https://github.com/ChSSolee/R-study/blob/main/cnn-in-r/cnn-in-r.md)
 
 <br/>
 
