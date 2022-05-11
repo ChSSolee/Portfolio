@@ -54,7 +54,7 @@
 
 <br/>
 
-### [대한민국 축구 국가 대표팀 YouTube 하이라이트 영상 댓글분석](https://github.com/ChSSolee/R-Data/blob/main/Youtube.md)
+### [대한민국 축구 국가 대표팀 YouTube 하이라이트 영상 댓글분석](https://github.com/ChSSolee/R-study/blob/main/%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D1/%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D1.ipynb)
 
 <br/>
 
