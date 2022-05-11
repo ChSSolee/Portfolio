@@ -19,3 +19,5 @@
 > #### 개요 : US Airline Passenger Satisfaction의 이진적 반응변수(항공사 서비스 만족 여부에 대한 오즈)에 설명변수가 어떤 영향을 미치는지를 파악.
 > #### 기간/단위 : 2021.11 ~ 2021.12 / 개인
 > #### 사용 프로그램 : R
+
+### [House Price Prediction (회귀, XGBoost, DNN)](https://github.com/ChSSolee/R-study/blob/main/Housing%20Price/notebook3c484024bd%20(1).md)
