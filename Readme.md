@@ -14,6 +14,7 @@
 > #### 데이터 분석 준전문가 (ADsP) / 2021.04
 > #### SQL 개발자 (SQLD) / 2021.10
 > #### 빅데이터 분석기사 / 2021.12
+> #### 데이터 분석 전문가 (ADP) 필기 / 2022.04
 > #### TOEIC (845 / 990) / 2022.01
 #### 📧Email : coldkid1124@naver.com
 
@@ -28,10 +29,6 @@
 <br/>
 
 ### [Covid 19 방사선 사진 데이터 분류 - CNN](https://github.com/ChSSolee/R-study/blob/main/cnn-in-r/cnn-in-r.md)
-
-<br/>
-
-### [House Price Prediction (회귀)](https://github.com/ChSSolee/R-study/blob/main/Housing%20Price/notebook3c484024bd%20(1).md)
 
 <br/>
 
