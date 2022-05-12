@@ -3,7 +3,6 @@
 
 <img width="200" height="250" src="https://user-images.githubusercontent.com/100699925/156291652-aa1a8a48-ab44-437c-aa76-93e031dba97f.jpg">
 
-> #### **현실에 안주하지 않고 늘 발전하기 위해 노력하는 이찬솔입니다.**  
 > 
 > ##### - 이름 : 이찬솔 (1996년생, 만 25세)
 #### 학력
@@ -38,7 +37,7 @@
 
 ### "2022 카타르 월드컵 최종예선" 대한민국 축구 국가 대표팀 YouTube 하이라이트 영상 댓글분석
 > #### [댓글 감성분석](https://github.com/ChSSolee/R-study/blob/main/%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D1/%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D1.ipynb)
-> #### [단어간 관계파악 (동시출현빈도, 상관관계(파이상관계수), n-gram](https://github.com/ChSSolee/R-study/blob/main/%EB%8B%A8%EC%96%B4%EA%B0%84%20%EA%B4%80%EA%B3%84%20%ED%8C%8C%EC%95%85/%EB%8B%A8%EC%96%B4%EA%B0%84%20%EA%B4%80%EA%B3%84%20%ED%8C%8C%EC%95%85.ipynb)
+> #### [단어간 관계파악 (동시출현빈도, 상관관계(파이상관계수), n-gram)](https://github.com/ChSSolee/R-study/blob/main/%EB%8B%A8%EC%96%B4%EA%B0%84%20%EA%B4%80%EA%B3%84%20%ED%8C%8C%EC%95%85/%EB%8B%A8%EC%96%B4%EA%B0%84%20%EA%B4%80%EA%B3%84%20%ED%8C%8C%EC%95%85.ipynb)
 
 <br/>
 
