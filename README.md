@@ -38,7 +38,7 @@
 
 ### "2022 카타르 월드컵 최종예선" 대한민국 축구 국가 대표팀 YouTube 하이라이트 영상 댓글분석
 > [댓글 감성분석](https://github.com/ChSSolee/R-study/blob/main/%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D1/%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D1.ipynb)
->
+> [단어간 관계파악 (동시출현빈도, 상관관계(파이상관계수), n-gram](https://github.com/ChSSolee/R-study/blob/main/%EB%8B%A8%EC%96%B4%EA%B0%84%20%EA%B4%80%EA%B3%84%20%ED%8C%8C%EC%95%85/%EB%8B%A8%EC%96%B4%EA%B0%84%20%EA%B4%80%EA%B3%84%20%ED%8C%8C%EC%95%85.ipynb)
 
 <br/>
 
