@@ -23,7 +23,7 @@
 
 ##
 
-### [대학재학시 경험한 프로젝트](https://github.com/ChSSolee/Portfolio/blob/main/soongsil.md)
+### 대학재학시 경험한 프로젝트
 > #### [신문사별 실시간 뉴스의 단어 출현 빈도 시각화](https://github.com/ChSSolee/001/blob/main/README.md)
 > #### [K-Folds CV를 활용한 최적의 분류 머신러닝 모형 탐색](https://github.com/ChSSolee/002/blob/main/README.md)
 > #### [항공사의 고객 만족도를 높이는 요인분석](https://github.com/ChSSolee/003/blob/main/README.md)
