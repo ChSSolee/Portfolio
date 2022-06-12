@@ -31,7 +31,7 @@
 
 <br/>
 
-### [ADP  대비](https://github.com/ChSSolee/ADP-Practice/blob/main/README.md)
+### [ADP 실기 대비](https://github.com/ChSSolee/ADP-Practice/blob/main/README.md)
 
 <br/>
 
