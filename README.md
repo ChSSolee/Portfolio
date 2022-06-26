@@ -31,7 +31,7 @@
 
 <br/>
 
-### [ADP 실기 준비](https://github.com/ChSSolee/ADP-Practice/blob/main/README.md)
+### [R/Python/MySQL 공부 & ADP 실기 준비](https://github.com/ChSSolee/ADP-Practice/blob/main/README.md)
 
 <br/>
 
